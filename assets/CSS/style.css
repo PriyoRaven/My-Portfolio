@@ -72,6 +72,15 @@
     text-decoration: none;
 }
 
+/*Preloader*/
+#preloader {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #fff url(/assets/Images/designed.gif) no-repeat center;
+    z-index: 9999;
+}
+
 /*scroll behaviour as the name suggest*/
 html{
     scroll-behavior: smooth;
