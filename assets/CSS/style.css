@@ -9,7 +9,7 @@
   /*Background banner*/
   --banner: url("/assets/Images/bannernight.jpg") no-repeat center;
   /*Main color*/
-  --hue-color: 350; /*Color number in https://www.w3schools.com/colors/colors_hsl.asp*/
+  --hue-color: 200; /*Color number in https://www.w3schools.com/colors/colors_hsl.asp*/
   
   /*HSL Color Modes*/
   --first-color: hsl(var(--hue-color), 83%, 50%);
